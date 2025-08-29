@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+.form-container {
+    margin: 20px auto;
+    max-width: 500px;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+.show-table {
+    margin: 20px auto;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
